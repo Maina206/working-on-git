@@ -9,3 +9,7 @@ plus a new line 2 to the md file
 ## Second modification
 
 This section was done locally after being pulled from remote
+
+## Third modification
+
+This section is done locally, but with a branch from the main
