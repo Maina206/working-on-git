@@ -12,4 +12,4 @@ This section was done locally after being pulled from remote
 
 ## Third modification
 
-This section is done locally, but with a branch from the main
+This section is done locally, but with a branch from the main one.
